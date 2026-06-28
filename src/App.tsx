@@ -237,7 +237,7 @@ export default function App() {
       <header className="px-5 sm:px-8 py-4 flex items-center justify-between border-b border-white/5 flex-shrink-0">
         <div className="flex items-center gap-3">
           <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-cyan-500 to-red-900 flex items-center justify-center">
-            <Music size={16} className="text-red-500" />
+            <Music size={16} className="text-white" />
           </div>
           <span className="text-lg font-semibold tracking-tight">SS | Waves 🎧</span>
         </div>
