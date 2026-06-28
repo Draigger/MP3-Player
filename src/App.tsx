@@ -234,7 +234,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-[#0b0b10] text-white flex flex-col">
       {/* Header */}
-      <header className="sticky top-0 z-40 px-5 sm:px-8 py-4 flex items-center justify-between border-b border-white/5 flex-shrink-0">
+      <header className="px-5 sm:px-8 py-4 flex items-center justify-between border-b border-white/5 flex-shrink-0">
         <div className="flex items-center gap-3">
           <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-cyan-500 to-red-900 flex items-center justify-center">
             <Music size={16} className="text-white" />
